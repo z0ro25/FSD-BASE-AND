@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FSD-BASE-AND</string>
+
+    <string name="rate_our_app">Rate Our App!</string>
+    <string name="rate_success">Rate success</string>
+    <string name="your_feedback_is_very_helpful_to_us">Your feedback is very helpful to us</string>
+    <string name="not_now" translatable="false">Not now</string>
+    <string name="rate_us" translatable="false">Rate us</string>
+</resources>
