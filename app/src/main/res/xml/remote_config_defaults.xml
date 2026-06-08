@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>ads_config</key>
+        <value>{
+            "ads_enable": true,
+            "inter_splash": true,
+            "native_language1": true,
+            "native_language2": true,
+            "native_onb1": true,
+            "native_onb3": true,
+            "native_onb_full": true,
+            "native_permisson": true,
+            "inter_start": true,
+            "inter_inapp": true,
+            "native_in_app": true,
+            "banner_in_app": true,
+            "open_ads": true
+            }
+        </value>
+    </entry>
+
+    <entry>
+        <key>inter_delay</key>
+        <value>45</value>
+    </entry>
+
+    <entry>
+        <key>int_splash_times_out</key>
+        <value>30</value>
+    </entry>
+
+    <entry>
+        <key>native_language_small</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>start_coin</key>
+        <value>20</value>
+    </entry>
+
+    <entry>
+        <key>T1_countries</key>
+        <value>["CA","FR","DE","IT","JP","GB","US","AU"]</value>
+    </entry>
+
+    <entry>
+        <key>iap_pack_coint</key>
+        <value>{"pack1":100,"pack2":250,"pack3":550,"pack4":1200}</value>
+    </entry>
+
+    <entry>
+        <key>native_onb2</key>
+        <value>true</value>
+    </entry>
+
+    <entry>
+        <key>nt_clp</key>
+        <value>true</value>
+    </entry>
+</defaultsMap>

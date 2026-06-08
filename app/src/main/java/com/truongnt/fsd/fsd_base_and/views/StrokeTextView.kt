@@ -1,4 +1,4 @@
-package com.ezt.ai.story.maker.views
+package com.truongnt.fsd.fsd_base_and.views
 
 import android.content.Context
 import android.graphics.Canvas
@@ -7,7 +7,7 @@ import android.graphics.Paint
 import android.graphics.Rect
 import android.util.AttributeSet
 import androidx.appcompat.widget.AppCompatTextView
-import com.ezt.ai.story.maker.R
+import com.truongnt.fsd.fsd_base_and.R
 import kotlin.apply
 
 class StrokeTextView @JvmOverloads constructor(

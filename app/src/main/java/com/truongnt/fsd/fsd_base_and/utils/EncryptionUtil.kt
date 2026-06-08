@@ -6,6 +6,8 @@ import android.os.Build
 import android.provider.Settings
 import android.util.Log
 import com.google.gson.Gson
+import com.google.gson.annotations.SerializedName
+import com.truongnt.fsd.fsd_base_and.BuildConfig
 import java.util.Base64
 import javax.crypto.Cipher
 import javax.crypto.spec.IvParameterSpec

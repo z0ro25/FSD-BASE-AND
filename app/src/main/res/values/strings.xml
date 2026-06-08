@@ -6,4 +6,11 @@
     <string name="your_feedback_is_very_helpful_to_us">Your feedback is very helpful to us</string>
     <string name="not_now" translatable="false">Not now</string>
     <string name="rate_us" translatable="false">Rate us</string>
+
+    <string name="p1_title">Create your fantasy world</string>
+    <string name="p1_content">A world of endless potential, where your slightest choice affect to your world.</string>
+    <string name="p2_title">Your Perfect Character Awaits</string>
+    <string name="p2_content">Generate your character in seconds. Easily adjust personality, character traits and more.</string>
+    <string name="p3_title">Unleash Your Inner Storyteller!</string>
+    <string name="p3_content">Waiting for the next perfect novel? Dream up and dive into your captivating stories instantly.</string>
 </resources>

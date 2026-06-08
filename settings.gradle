@@ -21,6 +21,14 @@ dependencyResolutionManagement {
         maven { url 'https://jitpack.io' }
         maven { url 'https://maven.aliyun.com/repository/jcenter' }
         maven { url 'https://android-sdk.is.com/' }
+
+        maven {
+            url = uri("https://maven.pkg.github.com/z0ro25/FSD-ADS")
+            credentials {
+                username = providers.gradleProperty("GITHUB_USERNAME").orElse("").get()
+                password = providers.gradleProperty("GITHUB_TOKEN").orElse("").get()
+            }
+        }
     }
 }
 
